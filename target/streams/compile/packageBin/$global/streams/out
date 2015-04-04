@@ -1,0 +1,35 @@
+[0m[[0minfo[0m] [0mPackaging C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\advanced-analytics-spark_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com[0m
+[0m[[0mdebug[0m] [0m	com\hopcroft\spark\mllib\StreamingKMeansTest$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\StreamingKMeansTest$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	com\hopcroft\spark\mllib\StreamingKMeansTest$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\StreamingKMeansTest$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	StreamingKMeansTest$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\StreamingKMeansTest$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	com\hopcroft\spark\mllib\StreamingKMeansTest.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\StreamingKMeansTest.class[0m
+[0m[[0mdebug[0m] [0m	com\hopcroft[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft[0m
+[0m[[0mdebug[0m] [0m	StreamingKMeansTest$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\StreamingKMeansTest$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	com\hopcroft\spark\mllib[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib[0m
+[0m[[0mdebug[0m] [0m	StreamingKMeansTest.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\StreamingKMeansTest.class[0m
+[0m[[0mdebug[0m] [0m	StreamingKMeansTest$.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\StreamingKMeansTest$.class[0m
+[0m[[0mdebug[0m] [0m	StreamingKMeansTest$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\StreamingKMeansTest$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	com\hopcroft\spark[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark[0m
+[0m[[0mdebug[0m] [0m	com\hopcroft\spark\mllib\NAStatCounter.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\NAStatCounter.class[0m
+[0m[[0mdebug[0m] [0m	com\hopcroft\spark\mllib\StreamingKMeansTest$.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\StreamingKMeansTest$.class[0m
+[0m[[0mdebug[0m] [0m	com\hopcroft\spark\mllib\StreamingKMeansTest$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\StreamingKMeansTest$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	com\hopcroft\spark\mllib\NAStatCounter$.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\NAStatCounter$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

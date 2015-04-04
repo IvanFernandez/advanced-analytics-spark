@@ -1,0 +1,279 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes
+compile options:
+0 items
+javac options:
+4 items
+0 -> -source
+1 -> 1.7
+2 -> -target
+3 -> 1.7
+compiler version:
+1 items
+0 -> 2.10.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+12 items
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\NAStatCounter$.class
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\NAStatCounter.class
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\StreamingKMeansTest$$anonfun$1.class
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\StreamingKMeansTest$$anonfun$2.class
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\StreamingKMeansTest$$anonfun$main$1.class
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\StreamingKMeansTest$.class
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\StreamingKMeansTest.class
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\StreamingKMeansTest$$anonfun$1.class
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\StreamingKMeansTest$$anonfun$2.class
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\StreamingKMeansTest$$anonfun$main$1.class
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\StreamingKMeansTest$.class
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\StreamingKMeansTest.class
+binary dependencies:
+13 items
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> C:\Program Files\Java\jdk1.8.0_40\jre\lib\rt.jar
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> C:\Users\Ivan\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.3.0.jar
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> C:\Users\Ivan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.2.jar
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> C:\Program Files\Java\jdk1.8.0_40\jre\lib\rt.jar
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> C:\Users\Ivan\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.3.0.jar
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> C:\Users\Ivan\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.3.0.jar
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> C:\Users\Ivan\.ivy2\cache\org.apache.spark\spark-streaming_2.10\jars\spark-streaming_2.10-1.3.0.jar
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> C:\Users\Ivan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.2.jar
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> C:\Program Files\Java\jdk1.8.0_40\jre\lib\rt.jar
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> C:\Users\Ivan\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.3.0.jar
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> C:\Users\Ivan\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.3.0.jar
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> C:\Users\Ivan\.ivy2\cache\org.apache.spark\spark-streaming_2.10\jars\spark-streaming_2.10-1.3.0.jar
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> C:\Users\Ivan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> com.hopcroft.spark.mllib.NAStatCounter
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> com.hopcroft.spark.mllib.NAStatCounter$
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> com.hopcroft.spark.mllib.StreamingKMeansTest
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> com.hopcroft.spark.mllib.StreamingKMeansTest$
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> com.hopcroft.spark.mllib.StreamingKMeansTest$$anonfun$1
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> com.hopcroft.spark.mllib.StreamingKMeansTest$$anonfun$2
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> com.hopcroft.spark.mllib.StreamingKMeansTest$$anonfun$main$1
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> StreamingKMeansTest
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> StreamingKMeansTest$
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> StreamingKMeansTest$$anonfun$1
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> StreamingKMeansTest$$anonfun$2
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> StreamingKMeansTest$$anonfun$main$1
+used names:
+140 items
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> +
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> <init>
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> Double
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> Long
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> NAStatCounter
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> Serializable
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> StatCounter
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> add
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> apache
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> com
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> hopcroft
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> isNaN
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> java
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> lang
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> merge
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> missing
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> missing_=
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> mllib
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> org
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> other
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> scala
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> spark
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> stats
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> toString
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> util
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> x
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> <init>
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> AnyRef
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> Array
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> ClassTag
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> Double
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> LabeledPoint
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> Predef
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> Seconds
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> SparkConf
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> StreamingContext
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> StreamingKMeans
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> StreamingKMeansTest
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> String
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> Unit
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> Vectors
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> apache
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> apply
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> awaitTermination
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> cache
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> clustering
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> com
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> conf
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> count
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> features
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> hopcroft
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> label
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> linalg
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> lp
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> map
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> materializeClassTag
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> mllib
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> model
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> numClusters
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> numDimensions
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> org
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> package
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> parse
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> predictOnValues
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> print
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> qual$1
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> regression
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> scala
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> setAppName
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> setDecayFactor
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> setK
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> setMaster
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> setRandomCenters
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> spark
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> ssc
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> start
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> streaming
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> testData
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> textFileStream
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> trainOn
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> trainingData
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> x$1
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> x$2
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> x$3
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> <init>
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> AnyRef
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> Array
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> ClassTag
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> Double
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> LabeledPoint
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> Predef
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> Seconds
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> SparkConf
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> StreamingContext
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> StreamingKMeans
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> StreamingKMeansTest
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> String
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> Unit
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> Vectors
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> apache
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> apply
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> awaitTermination
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> cache
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> clustering
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> conf
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> count
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> features
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> label
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> linalg
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> lp
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> map
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> materializeClassTag
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> mllib
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> model
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> numClusters
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> numDimensions
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> org
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> package
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> parse
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> predictOnValues
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> print
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> qual$1
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> regression
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> scala
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> setAppName
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> setDecayFactor
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> setK
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> setMaster
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> setRandomCenters
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> spark
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> ssc
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> start
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> streaming
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> testData
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> textFileStream
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> trainOn
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> trainingData
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> x$1
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> x$2
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> x$3
+product stamps:
+12 items
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\NAStatCounter$.class -> lastModified(1428181900285)
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\NAStatCounter.class -> lastModified(1428181900318)
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\StreamingKMeansTest$$anonfun$1.class -> lastModified(1428181900408)
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\StreamingKMeansTest$$anonfun$2.class -> lastModified(1428181900414)
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\StreamingKMeansTest$$anonfun$main$1.class -> lastModified(1428181900445)
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\StreamingKMeansTest$.class -> lastModified(1428181900403)
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\com\hopcroft\spark\mllib\StreamingKMeansTest.class -> lastModified(1428181900396)
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\StreamingKMeansTest$$anonfun$1.class -> lastModified(1428181900269)
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\StreamingKMeansTest$$anonfun$2.class -> lastModified(1428181900274)
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\StreamingKMeansTest$$anonfun$main$1.class -> lastModified(1428181900277)
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\StreamingKMeansTest$.class -> lastModified(1428181900263)
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\target\scala-2.10\classes\StreamingKMeansTest.class -> lastModified(1428181900258)
+source stamps:
+3 items
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> hash(2cc3fe723d6a98c744ada4d6b33e402a135afb04)
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> hash(5469346c95ffd8a93a17b81776b3dab8221c4c9c)
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> hash(13d59cc09c5fb90a4903736b5d8603fe005c2b81)
+binary stamps:
+5 items
+C:\Program Files\Java\jdk1.8.0_40\jre\lib\rt.jar -> lastModified(1427043366508)
+C:\Users\Ivan\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.3.0.jar -> lastModified(1425598998000)
+C:\Users\Ivan\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.3.0.jar -> lastModified(1425599015000)
+C:\Users\Ivan\.ivy2\cache\org.apache.spark\spark-streaming_2.10\jars\spark-streaming_2.10-1.3.0.jar -> lastModified(1425599167000)
+C:\Users\Ivan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.2.jar -> lastModified(1370541941000)
+class names:
+5 items
+C:\Program Files\Java\jdk1.8.0_40\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Ivan\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.3.0.jar -> org.apache.spark.SparkConf
+C:\Users\Ivan\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.3.0.jar -> org.apache.spark.mllib.regression.LabeledPoint$
+C:\Users\Ivan\.ivy2\cache\org.apache.spark\spark-streaming_2.10\jars\spark-streaming_2.10-1.3.0.jar -> org.apache.spark.streaming.Seconds$
+C:\Users\Ivan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.2.jar -> scala.Array
+internal apis:
+3 items
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDbivaXAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cO/M+Nl0AAZub3RpZnlzcQB+AAw9fl4RdAAEd2FpdHNxAH4ADJVRbZJ0AAVzdGF0c3NxAH4ADD0GXlB0AA0kYXNJbnN0YW5jZU9mc3EAfgAMhhRZKXQABmVxdWFsc3NxAH4ADDOjbbp0AAxhc0luc3RhbmNlT2ZzcQB+AAxJrPIkdAAMc3luY2hyb25pemVkc3EAfgAM11VoWXQADSRpc0luc3RhbmNlT2ZzcQB+AAwENZzzdAAJbm90aWZ5QWxsc3EAfgAMvkgJ13QAC3JlYWRSZXNvbHZlc3EAfgAMHF7ipXQADGlzSW5zdGFuY2VPZnNxAH4ADIlzlIB0AAY8aW5pdD5zcQB+AAzmqhWTdAAFbWVyZ2VzcQB+AAzquM0+dAAFYXBwbHlzcQB+AAxF1V9fdAACPT1zcQB+AAx9NXtJdAAFY2xvbmVzcQB+AAzOgVPodAAHbWlzc2luZ3NxAH4ADOT2uxZ0AAh0b1N0cmluZ3NxAH4ADOkz+PB0AAIhPXNxAH4ADBmP92F0AAhnZXRDbGFzc3NxAH4ADJZHx/N0AA1OQVN0YXRDb3VudGVyc3EAfgAMEma+u3QAAm5lc3EAfgAMqJJL03QAA2FkZHNxAH4ADIeDeFN0AAJlcXNxAH4ADGIM4610AAIjI3NxAH4ADB1ZBBJ0AAhmaW5hbGl6ZXNxAH4ADOQbAWp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACZjb20uaG9wY3JvZnQuc3BhcmsubWxsaWIuTkFTdGF0Q291bnRlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AZnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZQBwc3EAfgBqc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4AbnNxAH4AZQBwc3EAfgBqdXEAfgBIAAAAAHNxAH4AZQBwc3EAfgBqdXEAfgBIAAAAAHNxAH4AZQBwc3EAfgBqdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAARzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBtdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBtc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCLc3EAfgB+cQB+AIFzcQB+AIJzcQB+AIV1cQB+AIgAAAADc3EAfgCKdAAEamF2YXNxAH4AinQAAmlvcQB+AI9zcQB+AH50AAZPYmplY3RzcQB+AIJzcQB+AIV1cQB+AIgAAAADc3EAfgCKcQB+AJVzcQB+AIp0AARsYW5ncQB+AI9zcQB+AH50AANBbnlxAH4AhHNxAH4ASnEAfgBXdXEAfgBYAAAAAHNxAH4AWgB0ACZjb20uaG9wY3JvZnQuc3BhcmsubWxsaWIuTkFTdGF0Q291bnRlcnVxAH4AXQAAAAB+cQB+AF90AAZNb2R1bGV1cQB+AGMAAAAAc3EAfgBlAHBzcQB+AGpxAH4Ab3NxAH4AZQBwc3EAfgBqc3EAfgByc3EAfgBlAHBzcQB+AGp1cQB+AEgAAAAAc3EAfgBlAHBzcQB+AGp1cQB+AEgAAAAAc3EAfgBlAHBzcQB+AGp1cQB+AHwAAAAEc3EAfgB+cQB+AIFzcQB+AIJzcQB+AIV1cQB+AIgAAAACc3EAfgCKcQB+AI1xAH4Aj3NxAH4AfnEAfgCBc3EAfgCCc3EAfgCFdXEAfgCIAAAAA3NxAH4AinEAfgCVc3EAfgCKdAACaW9xAH4Aj3NxAH4AfnEAfgCZc3EAfgCCc3EAfgCFdXEAfgCIAAAAA3NxAH4AinEAfgCVc3EAfgCKcQB+AJ9xAH4Aj3NxAH4AfnEAfgChcQB+ALl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABJjb20uaG9wY3JvZnQuc3BhcmtzcQB+AM10ABhjb20uaG9wY3JvZnQuc3BhcmsubWxsaWJzcQB+AM10AANjb21zcQB+AM10AAxjb20uaG9wY3JvZnRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUyGRGCZdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATUM6XFVzZXJzXEl2YW5cSWRlYVByb2plY3RzXGFkdmFuY2VkLWFuYWx5dGljcy1zcGFya1x0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAULMP+cj1qmMdEraTWsz5AKhNa+wQ=
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCmzOqnAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPy+qgV0AAZub3RpZnlzcQB+AAycy+/CdAAEd2FpdHNxAH4ADMrF0Ax0AA0kYXNJbnN0YW5jZU9mc3EAfgAMwURsfHQABmVxdWFsc3NxAH4ADLOhCIl0AAxhc0luc3RhbmNlT2ZzcQB+AAynXSdzdAAMc3luY2hyb25pemVkc3EAfgAMRo7SlXQADSRpc0luc3RhbmNlT2ZzcQB+AAwDh8NIdAAEbWFpbnNxAH4ADK7gnYF0AAlub3RpZnlBbGxzcQB+AAxQ65tRdAAMaXNJbnN0YW5jZU9mc3EAfgAMmOJTQ3QAAj09c3EAfgAMV34MSXQABWNsb25lc3EAfgAMVuwbD3QAE1N0cmVhbWluZ0tNZWFuc1Rlc3RzcQB+AAyHqJALdAAIdG9TdHJpbmdzcQB+AAw3vD78dAACIT1zcQB+AAy4dCpldAAIZ2V0Q2xhc3NzcQB+AAzNpA0mdAACbmVzcQB+AAwuWRCEdAACZXFzcQB+AAzTIK39dAACIyNzcQB+AAzQUPpVdAAIZmluYWxpemVzcQB+AAw5+kJKdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAsY29tLmhvcGNyb2Z0LnNwYXJrLm1sbGliLlN0cmVhbWluZ0tNZWFuc1Rlc3R1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBaeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZAHBzcQB+AF5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBic3EAfgBZAHBzcQB+AF51cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH91cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBseHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBzWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBhc3EAfgBydAAFQXJyYXlxAH4AeHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBydAAGU3RyaW5nc3EAfgB2c3EAfgB5dXEAfgB8AAAAA3NxAH4AfnQABGphdmFzcQB+AH50AARsYW5ncQB+AINzcQB+AFkAcHNxAH4AXnVxAH4APAAAAABzcQB+AFkAcHNxAH4AXnVxAH4AlwAAAAJzcQB+AHJ0AAZPYmplY3RxAH4Am3NxAH4AcnQAA0FueXEAfgB4dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAASY29tLmhvcGNyb2Z0LnNwYXJrc3EAfgCudAAYY29tLmhvcGNyb2Z0LnNwYXJrLm1sbGlic3EAfgCudAADY29tc3EAfgCudAAMY29tLmhvcGNyb2Z0c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFMhkRgmXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE1DOlxVc2Vyc1xJdmFuXElkZWFQcm9qZWN0c1xhZHZhbmNlZC1hbmFseXRpY3Mtc3BhcmtcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFRpNGyV/9ipOhe4F3az2rgiHEyc
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBWAXedAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKvBwJN0AAZub3RpZnlzcQB+AAxqWHBQdAAEd2FpdHNxAH4ADOdafs10AA0kYXNJbnN0YW5jZU9mc3EAfgAM08eGiHQABmVxdWFsc3NxAH4ADCu7Chx0AAxhc0luc3RhbmNlT2ZzcQB+AAxvhVx9dAAMc3luY2hyb25pemVkc3EAfgAMc/A14nQADSRpc0luc3RhbmNlT2ZzcQB+AAw7vxG6dAAEbWFpbnNxAH4ADKzp8zd0AAlub3RpZnlBbGxzcQB+AAyljqWwdAAMaXNJbnN0YW5jZU9mc3EAfgAMbxNcJXQAAj09c3EAfgAME9VXnnQABWNsb25lc3EAfgAMVOWzxnQAE1N0cmVhbWluZ0tNZWFuc1Rlc3RzcQB+AAxWjGRvdAAIdG9TdHJpbmdzcQB+AAyrcNybdAACIT1zcQB+AAzZj4xIdAAIZ2V0Q2xhc3NzcQB+AAyWlPUAdAACbmVzcQB+AAzNEv2kdAACZXFzcQB+AAw/mehidAACIyNzcQB+AAyiuf+4dAAIZmluYWxpemVzcQB+AAzPsQgQdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBZeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYAHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBhc3EAfgBYAHBzcQB+AF11cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBreHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgByWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBgc3EAfgBxdAAFQXJyYXlxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBxdAAGU3RyaW5nc3EAfgB1c3EAfgB4dXEAfgB7AAAAA3NxAH4AfXQABGphdmFzcQB+AH10AARsYW5ncQB+AIJzcQB+AFgAcHNxAH4AXXVxAH4APAAAAABzcQB+AFgAcHNxAH4AXXVxAH4AlgAAAAJzcQB+AHF0AAZPYmplY3RxAH4AmnNxAH4AcXQAA0FueXEAfgB3dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUyGRGCZdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATUM6XFVzZXJzXEl2YW5cSWRlYVByb2plY3RzXGFkdmFuY2VkLWFuYWx5dGljcy1zcGFya1x0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUE9WcwJxfuQpJA3NrXYYD/gBcK4E=
+external apis:
+0 items
+source infos:
+3 items
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StatsWithMissing.scala -> 
+AAAAAAAAAAA=
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\java\com\hopcroft\spark\mllib\StreamingKMeansTest.scala -> 
+AAAAAAAAAAA=
+C:\Users\Ivan\IdeaProjects\advanced-analytics-spark\src\main\scala\StreamingKMeansTest.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTIZEYJl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEl2YW5cSWRlYVByb2plY3RzXGFkdmFuY2VkLWFuYWx5dGljcy1zcGFya1x0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
