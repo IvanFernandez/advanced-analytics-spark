@@ -12,14 +12,14 @@ object StreamingKMeansTest {
 
     val conf = new SparkConf().setMaster("local[2]").setAppName("StreamingKMeansTest")
     val ssc = new StreamingContext(conf, Seconds(10))
-    val trainingData = ssc.textFileStream("C:\\data\\linear\\training").map(Vectors.parse).cache()
-    val testData = ssc.textFileStream("C:\\data\\linear\\testing").map(LabeledPoint.parse)
+    val trainingData = ssc.textFileStream("/home/centos/data/training").map(Vectors.parse).cache()
+    val testData = ssc.textFileStream("/home/centos/data/testing").map(LabeledPoint.parse)
 
     trainingData.count()
     testData.count()
 
     val numDimensions = 3
-    val numClusters = 2
+    val numClusters = 5
     val model = new StreamingKMeans().setK(numClusters).setDecayFactor(1.0).setRandomCenters(numDimensions, 0.0)
 
     model.trainOn(trainingData)
