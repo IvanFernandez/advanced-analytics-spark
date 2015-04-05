@@ -12,6 +12,9 @@ This project is managed with sbt and maven:
 ## Running streaming linear regression from the project root directory 
 `spark-submit --class "StreamingLinearRegressionWithSGDTest" --master local[2] target/scala-2.10/advanced-analytics-spark_2.10-1.0.jar`
 
+## Running decision trees classification from the project root directory 
+`spark-submit --class "DecisionTreeTest" --master local[2] target/scala-2.10/advanced-analytics-spark_2.10-1.0.jar`
+
 # Other considerations
 
 ## Avoid Warning logs in spark-shell
