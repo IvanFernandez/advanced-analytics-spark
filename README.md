@@ -1,7 +1,7 @@
 # Installation 
 This project is managed with sbt and maven:   
-1) To package it with maven, run 'mvn clean package -DskipTest'   
-2) To package it with sbt, run 'sbt package'  
+1) To package it with maven, run `mvn clean package -DskipTest`
+2) To package it with sbt, run `sbt package`  
 
 # Running standalone application
 [Spark self contained applications](https://spark.apache.org/docs/latest/quick-start.html#self-contained-applications)
